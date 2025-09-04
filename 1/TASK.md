@@ -4,7 +4,7 @@
 
 ```bash
 GROUP_NAME="devteam"
-USERS=("dev1" "dev2" "dev3" "dev4" "dev5")
+USERS=("sherif1" "sherif2" "sherif3" "sherif4" "sherif5")
 DEFAULT_PASSWORD="TempPass123!"
 ```
 
